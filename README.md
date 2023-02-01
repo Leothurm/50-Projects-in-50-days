@@ -9,6 +9,5 @@
 ---
 
 ><h2 style = "text-align:center"> Project 01 - Expanding Cards </h2>
-
-
+![Expandig cards](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/01%20ExpandingCards/videos/expandigCards.gif)
 ---

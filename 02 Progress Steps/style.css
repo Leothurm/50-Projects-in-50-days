@@ -5,7 +5,7 @@
 }
 
 :root {
-  --line-border-fill: #3498db;
+  --line-border-fill: #000000;
   --line-border-empty: #e0e0e0;
 }
 
@@ -45,12 +45,12 @@ body {
 }
 
 .progress {
-  background-color: #3498db;
+  background-color: var(--line-border-fill);
   position: absolute;
   top: 50%;
   left: 0;
   height: 4px;
-  width: 50%;
+  width: 0%;
   transform: translateY(-50%);
   z-index: -1;
   transition: 0.4s ease;
@@ -60,8 +60,8 @@ body {
   background-color: #fff;
   color: #999;
   border-radius: 50%;
-  height: 30px;
-  width: 30px;
+  height: 35px;
+  width: 35px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -71,6 +71,8 @@ body {
 
 .circle.active {
   border-color: var(--line-border-fill);
+  color: var(--line-border-fill);
+  font-weight: 700;
 }
 
 .btn {

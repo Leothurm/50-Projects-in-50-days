@@ -15,14 +15,14 @@ body {
 .container {
   background-color: #fafafa;
   transform-origin: top left;
-  transition: transform 0.5 linear;
+  transition: transform 0.5s linear;
   width: 100vw;
   min-height: 100vh;
   padding: 50px;
 }
 
 .container.show-nav {
-  /* transform: rotate(-20deg); */
+  transform: rotate(-20deg);
 }
 
 .circle-container {
@@ -40,6 +40,13 @@ body {
   transition: transform 0.5s linear;
 }
 
+
+
+
+.container.show-nav .circle {
+  transform: rotate(-70deg);
+}
+
 .circle button {
   position: absolute;
   top: 50%;
@@ -49,6 +56,7 @@ body {
   color: #fafafa;
   font-size: 26px;
   border: 0;
+  cursor: pointer;
 }
 
 .circle button:focus {
@@ -56,14 +64,79 @@ body {
 }
 
 .circle button#open {
+    position: absolute;
   left: 60%;
 }
 
 .circle button#close {
+    position: absolute;
   top: 60%;
   transform: rotate(90deg);
   transform-origin: top left;
 }
+
+.container.show-nav + nav li{
+    transform: translateX(0);
+    transition-delay: 0.3s;
+}
+
+
+nav{
+    position: fixed;
+    bottom: 40px;
+    left: 0;
+    z-index: 100;
+}
+
+nav ul{
+    list-style-type: none;
+    padding-left: 30px;
+}
+
+nav ul li{
+    text-transform: uppercase;
+    color: white;
+    margin: 40px 0;
+    /* transform: translate(-100%); */
+    transition: transform 0.4s ease-in;
+}
+
+nav ul li a{
+    font-size: 20px;
+    margin-right: 10px;
+    color: white;
+}
+
+nav ul li + li{
+    margin-left: 15px;
+
+    transform: translateX(-150%);
+}
+
+nav ul li + li + li {
+    margin-left: 30px;
+    transform: translateX(-200%);
+}
+
 .content img{
     max-width: 100%;
+}
+
+.content{
+    max-width: 1000px;
+    margin: 50px auto;
+}
+
+.content h1{
+    margin: 0;
+}
+
+.content small{
+    color: #555;
+    font-style: italic;
+}
+
+.content p{
+    color: #333;
+    line-height: 1.5;
 }

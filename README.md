@@ -29,3 +29,13 @@
 
 </div>
 
+---
+
+<h2> Project 03 - Rotating Navigation </h2>
+
+<div align="center">
+
+![Rotating Navigation](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/03%20Rotating%20Navigation/video/rotating%20nagevation.gif)
+
+</div>
+

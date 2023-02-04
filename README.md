@@ -4,7 +4,7 @@
 ---
 
 <h2> ABOUT ❓</h2>
-> This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpose of these projects is to sharpen my HTML, CSS and Javascript skills by building 50 quick, unique & fun mini projects. 
+This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpose of these projects is to sharpen my HTML, CSS and Javascript skills by building 50 quick, unique & fun mini projects. 
 
 ---
 

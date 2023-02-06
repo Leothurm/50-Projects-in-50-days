@@ -15,11 +15,12 @@ body {
 }
 
 .bg {
-  background: url("./img/nathan-dumlao-pMW4jzELQCw-unsplash.jpg") no-repeat center center/cover;
+  background: url("./img/nathan-dumlao-pMW4jzELQCw-unsplash.jpg") no-repeat center/cover;
     position: absolute;
     top: -30px;
     left: -30px;
     /*macete para nao ficar as bordas tao brancas quando estiver desfocado*/
+    
     /* top: 0px;
     left: 0px; */
     /* width: 100vw;

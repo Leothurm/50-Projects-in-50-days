@@ -48,3 +48,13 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 ![Hidden Search](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/04%20Hidden%20Search/video/hidden%20search.gif)
 
 </div>
+
+---
+
+<h2> Project 05 - Blurry Loading </h2>
+
+<div align="center">
+
+![Blurry Loading](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/05%20Blurry%20Loading/video/Blurry%20loading.gif)
+
+</div>

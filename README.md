@@ -39,3 +39,12 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 
 </div>
 
+---
+
+<h2> Project 04 - Hidden Search </h2>
+
+<div align="center">
+
+![Hidden Search](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/04%20Hidden%20Search/video/hidden%20search.gif)
+
+</div>

@@ -58,3 +58,13 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 ![Blurry Loading](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/05%20Blurry%20Loading/video/Blurry%20loading.gif)
 
 </div>
+
+---
+
+<h2> Project 06 - Scroll Animation </h2>
+
+<div align="center">
+
+![Scroll Animation](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/06%20Scroll%20Animation/video/scroll%20animation.gif)
+
+</div>

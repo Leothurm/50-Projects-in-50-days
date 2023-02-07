@@ -12,10 +12,50 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color: rgb(206, 207, 205);
+    overflow-x: hidden;
     background-color: #efedd6;
 
 }
 
 h1{
     margin: 10px;
+    height: 90px;
+    font-size: 1.5em;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.box{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 5px rgba(0,0,0,0.3);
+    transform: translateX(400%);
+    transition: transform 0.4s ease;
+    
+}
+
+
+/* A estilização abaixo é para pegar apenas os elementos pares e fazer com que eles venham da esquerda pra direita */
+.box:nth-of-type(even){
+    transform: translateX(-400%);
+}
+
+
+.box.show{
+    transform: translateX(0);
+}
+
+.box h2{
+    font-size: 45px;
 }

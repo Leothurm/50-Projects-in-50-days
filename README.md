@@ -68,3 +68,14 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 ![Scroll Animation](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/06%20Scroll%20Animation/video/scroll%20animation.gif)
 
 </div>
+
+---
+
+<h2> Project 07 - Split Landing Page </h2>
+
+<div align="center">
+
+
+![Split Landing Page](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/07%20Split%20Landing%20Page/video/split%20landing.gif)
+
+</div>

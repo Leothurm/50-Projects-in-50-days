@@ -142,3 +142,17 @@ h1{
     width: var(--other-width);
 
 }
+
+@media(max-width: 800px){
+
+    h1{
+        font-size: 2rem;
+    }
+
+    .btn{
+        padding: 1.2rem;
+        max-width: 10rem;
+       
+    }
+
+}

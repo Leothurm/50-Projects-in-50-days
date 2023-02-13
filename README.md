@@ -79,3 +79,14 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 ![Split Landing Page](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/07%20Split%20Landing%20Page/video/split%20landing.gif)
 
 </div>
+
+---
+
+<h2> Project 08 - Form wave </h2>
+
+<div align="center">
+
+
+![Wave Form](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/08%20Form%20Wave/video/formWave.gif)
+
+</div>

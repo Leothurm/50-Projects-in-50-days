@@ -113,3 +113,13 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+<h2> Project 11 - Key Code </h2>
+
+<div align="center">
+
+![Key Code](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/11%20Key%20Codes/img/Key%20Code.gif)
+
+</div>
+
+---

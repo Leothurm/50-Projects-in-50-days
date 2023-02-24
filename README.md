@@ -123,3 +123,23 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+<h2> Project 12 - FAQ </h2>
+
+<div align="center">
+
+![FAQ](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/12%20FAQ/video/project12.gif)
+
+</div>
+
+---
+
+<h2> Project 13 - Random Choicer Picker </h2>
+
+<div align="center">
+
+![Rando Choicer Picker](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/13%20Random%20Choice%20Picker/video/project13.gif)
+
+</div>
+
+---

@@ -143,3 +143,13 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+<h2> Project 13 - Animated Navigation </h2>
+
+<div align="center">
+
+![Rando Choicer Picker](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/14%20Animated%20Navigation/video/project14.gif)
+
+</div>
+
+---

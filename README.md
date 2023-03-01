@@ -144,7 +144,7 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 
 ---
 
-<h2> Project 13 - Animated Navigation </h2>
+<h2> Project 14 - Animated Navigation </h2>
 
 <div align="center">
 
@@ -153,3 +153,15 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+<h2> Project 15 - Incrementing Counter </h2>
+
+<div align="center">
+
+
+![Incrementing Counter](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/15%20Incrementing%20Counter/videos/project15.gif)
+
+</div>
+
+---
+

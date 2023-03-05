@@ -4,7 +4,7 @@ const percentage = document.getElementById("percentage");
 const remained = document.getElementById("remained");
 
 
-updateBigCup()
+// updateBigCup()
 
 smallCups.forEach((cup, idx) => {
   cup.addEventListener("click", () => highlighCups(idx));

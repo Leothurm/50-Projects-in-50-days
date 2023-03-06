@@ -165,3 +165,13 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 
 ---
 
+<h2> Project 16 - Drink Water </h2>
+
+<div align="center">
+
+
+![Drink Water](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/16%20Drink%20Water/video/project16.gif)
+
+</div>
+
+---

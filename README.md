@@ -175,3 +175,14 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+
+<h2> Project 17 - Movie App </h2>
+
+<div align="center">
+
+![Movie App](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/17%20Movie%20App/video/project17.gif)
+
+</div>
+
+---

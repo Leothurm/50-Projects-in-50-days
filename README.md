@@ -186,3 +186,14 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+
+<h2> Project 18 - Background Slider </h2>
+
+<div align="center">
+
+![Background slider](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/18%20Background%20Slider/video/project18.gif)
+
+</div>
+
+---

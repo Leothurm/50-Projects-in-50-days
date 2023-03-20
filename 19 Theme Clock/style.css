@@ -15,13 +15,16 @@ html{
 
 html.dark{
     --primary-color: #fff;
-    --seconday-color: #333;
+    --secondary-color: #333;
 }
+
+
 
 html.dark{
  background-color: #111;
  color:var(--primary-color)
 }
+
 
 body{
     font-family: 'Heebo', sans-serif;
@@ -126,6 +129,7 @@ body{
     border-radius: 50%;
     height: 18px;
     width: 18px;
+    font-weight: bold;
     display: inline-flex;
     align-items: center;
     justify-content: center;

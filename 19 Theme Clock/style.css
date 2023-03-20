@@ -59,7 +59,7 @@ body{
     position: relative;
     width: 200px;
     height: 200px;
-    background-color: #f0f0f0;
+  
 }
 
 .needle{
@@ -85,4 +85,51 @@ body{
     transform: translate(-50%, -100%) rotate(0deg);
     height: 100px;
     background-color: #e74c3c;
+}
+
+.center-point{
+    background-color: #e74c3c;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.center-point::after{
+    content: '';
+    background-color: var(--primary-color);
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.time{
+    font-size: 60px;
+}
+
+.date{
+    font-size: 14px;
+    color: #aaa;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+}
+
+.date .circle{
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    border-radius: 50%;
+    height: 18px;
+    width: 18px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 18px;
+    transition: all 0.5s ease-in;
+    font-size: 12px;
 }

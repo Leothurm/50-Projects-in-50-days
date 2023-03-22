@@ -202,7 +202,7 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 
 <div align="center">
 
-![Background slider](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/19%20Theme%20Clock/video/project%2019.gif)
+![Theme Clock](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/19%20Theme%20Clock/video/project%2019.gif)
 
 </div>
 

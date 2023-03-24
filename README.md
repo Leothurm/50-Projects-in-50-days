@@ -207,3 +207,15 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+
+<h2> Project 20 - Button Ripple Effect </h2>
+
+<div align="center">
+
+![Button Ripple Effect](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/20%20Button%20Ripple%20Effect/video/project%2020.gif)
+
+
+</div>
+
+---

@@ -219,3 +219,14 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+
+<h2> Project 21 - Drag N Drop </h2>
+
+<div align="center">
+
+![Drag N Drop](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/21%20Drag%20N%20Drop/video/project21.gif)
+
+</div>
+
+---

@@ -35,10 +35,16 @@ como tem after e before, ao criar vao ter 2 triangulos no msm lugar */
     height: 0;
     border: 50px solid transparent;
     border-bottom-color:#fff ;
+
+    /*Animation*/
+
+    animation: rotateA 2s linear infinite 0.5s;
 }
 
 .kinetic::before{
     transform: rotate(90deg);
+    animation: rotateB 2s linear infinite;
+
 }
 
 @keyframes rotateA{
@@ -52,5 +58,19 @@ como tem after e before, ao criar vao ter 2 triangulos no msm lugar */
 
     100%{
         transform: rotate(360deg);
+    }
+}
+
+@keyframes rotateB{
+    0%, 25%{
+        transform: rotate(90deg);
+    }
+
+    50%, 75%{
+        transform: rotate(270deg);
+    }
+
+    100%{
+        transform: rotate(450deg);
     }
 }

@@ -230,3 +230,14 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+
+<h2> Project 22 - Drawing App </h2>
+
+<div align="center">
+
+![Drawing App](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/22%20Drawing%20App/video/project22.gif)
+
+</div>
+
+---

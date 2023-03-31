@@ -1,0 +1,56 @@
+
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+   background-color: #2c3e50;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    height: 100vh;;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.kinetic{
+    position: relative;
+    height: 80px;
+    width: 80px;
+}
+
+/* para criar os triangulos dentro do pai (kinetic),
+como tem after e before, ao criar vao ter 2 triangulos no msm lugar */
+.kinetic::after, .kinetic::before{
+    content:'';
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    /* para criar triangulos usar as estilizações,
+     e o bottom do border-bottom-color faz a base 
+     do triangulo ficar em baixo  */
+    width: 0;
+    height: 0;
+    border: 50px solid transparent;
+    border-bottom-color:#fff ;
+}
+
+.kinetic::before{
+    transform: rotate(90deg);
+}
+
+@keyframes rotateA{
+    0%, 25%{
+        transform: rotate(0deg);
+    }
+
+    50%, 75%{
+        transform: rotate(180deg);
+    }
+
+    100%{
+        transform: rotate(360deg);
+    }
+}

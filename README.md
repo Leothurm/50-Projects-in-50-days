@@ -241,3 +241,13 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+<h2> Project 23 - Kinetic Loader </h2>
+
+<div align="center">
+
+![Kinetic Loader](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/23%20Kinetic%20CSS%20Loader/video/project23.gif)
+
+</div>
+
+---

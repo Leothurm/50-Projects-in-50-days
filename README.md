@@ -261,3 +261,13 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+<h2> Project 25 - Sticky Navbar </h2>
+
+<div align="center">
+
+![Sticky Navbar](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/25%20Sticky%20Navbar/video/video25.gif)
+
+</div>
+
+---

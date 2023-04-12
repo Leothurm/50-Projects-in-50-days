@@ -271,3 +271,14 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+
+<h2> Project 26 - Slider Vertical </h2>
+
+<div align="center">
+
+![Slider Vertical](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/26%20Double%20Vertical%20Slider/video/project26.gif)
+
+</div>
+
+---

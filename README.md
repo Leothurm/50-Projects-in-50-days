@@ -282,3 +282,14 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+
+<h2> Project 27 - Toast Notification </h2>
+
+<div align="center">
+
+![Toast Notification](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/27%20Toast%20Notification/video/project27.gif)
+
+</div>
+
+---

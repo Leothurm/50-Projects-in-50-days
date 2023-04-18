@@ -293,3 +293,13 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+<h2> Project 28 - Github Profile </h2>
+
+<div align="center">
+
+![Github Profile ](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/28%20GitHub%20Profiles/video/video.gif)
+
+</div>
+
+---

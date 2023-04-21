@@ -303,3 +303,11 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 </div>
 
 ---
+
+<h2> Project 29 - Double Heart Click </h2>
+
+<div align="center">
+
+![Double Heart Click ](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/29%20Double%20Heart%20Click/video/vlc-record-2023-04-21-20h36m05s-Desktop%202023.04.21%20-%2020.34.49.01.mp4-.gif)
+
+</div>

@@ -6,6 +6,7 @@
 
 
 body{
+    background-color: darksalmon;
     font-family: 'Roboto', sans-serif;
     margin: 0;
     display: flex;
@@ -14,6 +15,26 @@ body{
     height: 100vh;;
     justify-content: center;
     overflow: hidden;
-
-
 }
+
+div{
+    position: absolute;
+    bottom: 20px;
+    background: rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+input{
+    width: 50px;
+    padding: 5px;
+    font-size: 18px;
+    background-color: darksalmon;
+    border: none;
+    text-align: center;
+}
+
+input:focus{
+    outline: none;
+}
+

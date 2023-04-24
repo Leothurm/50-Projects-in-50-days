@@ -311,3 +311,15 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 ![Double Heart Click ](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/29%20Double%20Heart%20Click/video/vlc-record-2023-04-21-20h36m05s-Desktop%202023.04.21%20-%2020.34.49.01.mp4-.gif)
 
 </div>
+
+
+
+---
+
+<h2> Project 29 - Text Effect </h2>
+
+<div align="center">
+
+![Text Effect ](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/30%20Text%20Effect/video/video30.gif)
+
+</div>

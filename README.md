@@ -316,10 +316,20 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 
 ---
 
-<h2> Project 29 - Text Effect </h2>
+<h2> Project 30 - Text Effect </h2>
 
 <div align="center">
 
 ![Text Effect ](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/30%20Text%20Effect/video/video30.gif)
+
+</div>
+
+---
+
+<h2> Project 31 - Password Generator </h2>
+
+<div align="center">
+
+![Password Generator](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/31%20Password%20Generator/video/video31.gif)
 
 </div>

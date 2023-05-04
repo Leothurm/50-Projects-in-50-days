@@ -333,3 +333,12 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 ![Password Generator](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/31%20Password%20Generator/video/video31.gif)
 
 </div>
+
+
+<h2> Project 32 - Checkboxes </h2>
+
+<div align="center">
+
+![checkboxes]https://github.com/Leothurm/50-Projects-in-50-days/blob/main/32%20Checkboxes/video/project32.gif)
+
+</div>

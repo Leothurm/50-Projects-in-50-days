@@ -339,6 +339,16 @@ This repository contains 50 mini projects in HTML, CSS and JavaScript. The purpo
 
 <div align="center">
 
-![checkboxes]https://github.com/Leothurm/50-Projects-in-50-days/blob/main/32%20Checkboxes/video/project32.gif)
+![checkboxes](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/32%20Checkboxes/video/project32.gif)
+
+</div>
+
+
+
+<h2> Project 33 - Add Notes </h2>
+
+<div align="center">
+
+![Add Notes](https://github.com/Leothurm/50-Projects-in-50-days/blob/main/33%20Add%20Notes/video/project33.gif)
 
 </div>

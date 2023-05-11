@@ -49,6 +49,7 @@ h4{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%) scale(0);
+    text-align: center;
 }
 
 .final.show{
@@ -90,13 +91,12 @@ h4{
 }
 
 .nums span.in{
-    transform: translate(-50%, -50%) rotate(0);
+    transform: translate(-50%, -50%) rotate(0deg);
     animation: goIn 0.5s ease-in-out
 
 }
 
 .nums span.out{
-    transform: translate(-50%, -50%) rotate(0);
     animation: goOut 0.5s ease-in-out
 
 }

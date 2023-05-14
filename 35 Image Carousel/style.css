@@ -13,6 +13,12 @@ body{
     justify-content: center;
 }
 
+img{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+
 .carousel{
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
     height: 530px;
@@ -22,10 +28,30 @@ body{
 
 .image-container{
     display: flex;
+    transform: translateX(0);
+    transition: transform 0.5s ease-in-out;
 }
 
-img{
-    width: 500px;
-    height: 500px;
-    object-fit: cover;
+.buttons-container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.btn{
+    background-color: #ccc;
+    color: black;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+    width: 49.5%;
+    font-weight: bold;
+}
+
+.btn:hover{
+    opacity: 0.9;
+}
+
+.btn:focus{
+    outline: none;
 }
